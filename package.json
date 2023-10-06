@@ -1,0 +1,17 @@
+{
+  "name": "scrapy-migrator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@root/walk": "^1.1.0",
+    "antlr4": "^4.13.1",
+    "configparser": "^0.3.10"
+  }
+}
